@@ -1,0 +1,27 @@
+body{
+    background-color: aliceblue;
+}
+.main{
+    background-attachment: fixed;
+    background-color: aquamarine;
+    height: 100%;
+    width: 84%;
+    margin-left: 8%;
+    margin-right: 8%;
+}
+.big{
+   font-size: 17px;
+   font-weight: 600;
+   text-transform: capitalize;
+}
+.t1{
+    text-align:center;
+}
+.main .left{
+    width: 20%;
+    float: left;
+}
+.main .right{
+    width: 80%;
+    float: left;
+}
